@@ -10,4 +10,6 @@ Handling Configuraton Changes:
 Give support for Landscape Layout
 
 Use Android KTX Library
+
+Under Professor Kenytt Avery @ProfAvery #CPSC411
   
